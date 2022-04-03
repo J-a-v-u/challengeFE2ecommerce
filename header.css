@@ -278,6 +278,12 @@ body{
 }
 
 
+#login, #btn__ofertas{
+	border-radius: 5px;
+	border-left-color: #444;
+}
+
+
 
 /*
 .login header__btn {

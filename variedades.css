@@ -33,6 +33,12 @@
   
 }
 
+.variedades__contenedor__todos:hover {
+    color: rgb(255, 151, 252);
+    font-size: 1.1rem;
+  
+}
+
 
 .variedades ul {
     /*background: rgba(63, 62, 62, 0.9);*/
